@@ -1,40 +1,61 @@
-# Signal iOS
+# Connexa iOS
 
-Signal is a free and open source messaging app for simple private communication with friends.
+**Connexa** is a free and fully open-source messaging app built on the Signal protocol, designed to provide secure and private communication.
 
-[![Available on the App Store](https://signal.org/external/images/app-store-download-badge.svg)](https://apps.apple.com/app/id874139669)
+Also available for [Android](https://github.com/NunyaHotor/Connexa--Android-) and [Desktop](https://github.com/NunyaHotor/Connexa-Desktop).
 
-Also available on [Android](https://github.com/signalapp/signal-android) and [Desktop](https://github.com/signalapp/signal-desktop).
+---
+
+## What is Connexa?
+
+Connexa empowers Africans to communicate privately, securely, and affordably—with built-in multilingual support, offline-friendly performance, and mobile money integration (M-Pesa, MTN MoMo, Orange Money).
+
+---
 
 ## Questions?
 
-For troubleshooting and questions, please visit our [support center](https://support.signal.org/) or [unofficial community forum](https://community.signalusers.org/).
+For help and guidance, please visit our [Support Center](https://connexa.africa/support) (coming soon) or join our [community forum](https://community.connexa.africa).
 
-## Contributing Bug Reports
+---
 
-The best way to submit a bug report or support request is [via the Support Center](https://support.signal.org/hc/requests/new). Signal iOS doesn't collect any analytics or telemetry, and we rely on your feedback to help us troubleshoot and fix problems when something isn't working correctly.
+## Reporting Bugs
+
+Please submit bug reports via our [GitHub Issues page](https://github.com/YOUR-USERNAME/connexa-ios/issues). We do not collect any analytics or telemetry—your reports help us make Connexa better for everyone.
+
+---
 
 ## Contributing Code
 
-Instructions for how to configure your development environment and build Signal iOS can be found in [BUILDING.md](https://github.com/signalapp/Signal-iOS/blob/main/BUILDING.md). We also recommend reading the [contribution guidelines](https://github.com/signalapp/Signal-iOS/blob/main/CONTRIBUTING.md).
+Want to help build Connexa?
 
-## Contributing Ideas
+1. Clone the repository
+2. Follow the instructions in [BUILDING.md](https://github.com/YOUR-USERNAME/connexa-ios/blob/main/BUILDING.md)
+3. Review our [Contribution Guidelines](https://github.com/YOUR-USERNAME/connexa-ios/blob/main/CONTRIBUTING.md)
 
-Have something you want to say about Signal Foundation projects or want to be part of the conversation? Get involved in the [community forum](https://community.signalusers.org).
+We welcome volunteers, developers, designers, translators, and testers from across the continent and beyond.
+
+---
+
+## Got Ideas?
+
+Join the conversation on our [Connexa Community Forum](https://community.connexa.africa) and help shape the future of African messaging.
+
+---
 
 ## Cryptography Notice
 
-This distribution includes cryptographic software. The country in which you currently reside may have restrictions on the import, possession, use, and/or re-export to another country, of encryption software.
-BEFORE using any encryption software, please check your country's laws, regulations and policies concerning the import, possession, or use, and re-export of encryption software, to see if this is permitted.
-See <http://www.wassenaar.org/> for more information.
+Connexa includes cryptographic software. Please check your country’s laws regarding the use, import, or export of encryption software.
 
-The U.S. Government Department of Commerce, Bureau of Industry and Security (BIS), has classified this software as Export Commodity Control Number (ECCN) 5D002.C.1, which includes information security software using or performing cryptographic functions with asymmetric algorithms.
-The form and manner of this distribution makes it eligible for export under the License Exception ENC Technology Software Unrestricted (TSU) exception (see the BIS Export Administration Regulations, Section 740.13) for both object code and source code.
+More info: <http://www.wassenaar.org/>
+
+The U.S. Department of Commerce classifies this software under ECCN 5D002.C.1, eligible for export under License Exception ENC Technology Software Unrestricted (TSU).
+
+---
 
 ## License
 
-Copyright 2013-2025 Signal Messenger, LLC
+Copyright 2025 Connexa
 
 Licensed under the GNU AGPLv3: https://www.gnu.org/licenses/agpl-3.0.html
 
-_Apple and the Apple logo are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc., registered in the U.S. and other countries._
+_Apple, the Apple logo, and App Store are trademarks of Apple Inc., registered in the U.S. and other countries._
